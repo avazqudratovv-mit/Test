@@ -1,1 +1,5 @@
+
 Line 1: I changed this on main branch
+
+Line 1: I am a totally different change
+>>>>>>> feature-conflict
